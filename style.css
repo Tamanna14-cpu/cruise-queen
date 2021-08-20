@@ -13,6 +13,10 @@ body{
     background-attachment: scroll;
     background-size: cover;
 }
+main{
+    width: 100%;
+    height: 100vh;
+}
 nav{
     height: 50px;
     width: 100%;
@@ -135,4 +139,5 @@ nav ul li a:hover, a.active{
 }
 .confirmation-section h2{
     color: crimson;
+    font-family: 'Bebas Neue', cursive;
 }
